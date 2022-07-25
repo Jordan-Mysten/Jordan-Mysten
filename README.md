@@ -1,9 +1,10 @@
-### Hi there 👋
+- 👋 Hi, I’m @Jordan-Mysten (aka @kesne)
+- 🔭 I’m currently working on web3 frontends.
+- 💬 Ask me about TypeScript, JavaScript, and React.
+- 📫 How to reach me: jordan@mystenlabs.com
 
 <!--
 **Jordan-Mysten/Jordan-Mysten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
