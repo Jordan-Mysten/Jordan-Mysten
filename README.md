@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Jordan-Mysten (aka @kesne)
+# Hello friends!
+
+- 👋 Hi, I’m Jordan, a Software Engineer at [Mysten Labs](https://mystenlabs.com/) (aka [@kesne](https://github.com/kesne))
 - 🔭 I’m currently working on web3 frontends.
 - 💬 Ask me about TypeScript, JavaScript, and React.
 - 📫 How to reach me: jordan@mystenlabs.com
